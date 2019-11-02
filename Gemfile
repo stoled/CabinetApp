@@ -36,7 +36,7 @@ group :production do
   gem 'pg'
 end
 
-gem 'devise', '~> 4.6', '>= 4.6.2'
+gem 'devise', '~> 4.7'
 gem 'simple_form', '~> 4.1'
 gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
